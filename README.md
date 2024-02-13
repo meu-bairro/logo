@@ -1,6 +1,6 @@
 # Logo Meu Bairro
 
-A construção da logo foi desevolvida com base [nessa issue] usando o penpot e tem seu resultado em png e salvo em svg para uso.
+A construção da logo foi desevolvida com base [nessa issue](https://github.com/meu-bairro/gerenciamento/issues/4) usando o penpot e tem seu resultado em png e salvo em svg para uso.
 
 As versões para uso em meio digitais e impressos:
 
